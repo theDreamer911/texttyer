@@ -23,8 +23,10 @@ Make your text editing easier, so you can focus on building the program
 # How to use it
 
 ```
-import { texttyer } as tt from 'texttyer';
+const tt = require("texttyer");
 
-tt.upperCase(something)
+console.log(
+  `i have been writing many ${tt.upperCase("things")} that probably you don't know`
+);
 
 ```

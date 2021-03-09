@@ -1,6 +1,6 @@
 {
   "name": "texttyer",
-  "version": "1.0.0",
+  "version": "1.0.1.1",
   "description": "Text formatting for your running code",
   "main": "app.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theDreamer911/textformatter.git"
+    "url": "git+https://github.com/theDreamer911/texttyer.git"
   },
   "keywords": [
     "textFormat"
@@ -16,7 +16,7 @@
   "author": "Handhika Yanuar Pratama",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/theDreamer911/textformatter/issues"
+    "url": "https://github.com/theDreamer911/texttyer/issues"
   },
-  "homepage": "https://github.com/theDreamer911/textformatter#readme"
+  "homepage": "https://github.com/theDreamer911/texttyer#readme"
 }
