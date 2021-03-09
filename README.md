@@ -4,7 +4,7 @@ Make your text editing easier, so you can focus on building the program
 
 # Installation
 
-`npm i textformatter --save`
+`npm i texttyer --save`
 
 # What the feature ?
 
@@ -17,14 +17,14 @@ Make your text editing easier, so you can focus on building the program
 <li>lowercase</li>
 <li>UPPERCASE</li>
 <li>Capitalize Each Word</li>
-<ll>tOOGLE cASE</li>
+<li>tOOGLE cASE</li>
 </ol>
 
 # How to use it
 
 ```
-import { textformatter } as tf from 'textformatter';
+import { texttyer } as tt from 'texttyer';
 
-tf.upperCase(something)
+tt.upperCase(something)
 
 ```
